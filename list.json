@@ -3,5 +3,11 @@
     "title":"workerblog",
     "time":"2020-01-01",
     "file":"posts/workerblog.md"
+  },
+  {
+    "title":linux ",
+    "time":"2020-01-01",
+    "file":"posts/l.md"
   }
+
 ]
